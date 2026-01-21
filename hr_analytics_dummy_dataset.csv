@@ -1,0 +1,1201 @@
+Employee_ID,Age,Gender,Department,Job_Role,Years_At_Company,Monthly_Salary,Performance_Rating,Training_Hours,Attrition
+50001,25,Female,Operations,Senior Executive,9.9,103638,2,20,No
+50002,46,Female,Finance,Manager,11.3,40129,3,31,No
+50003,24,Male,Marketing,Senior Executive,9.3,25003,4,4,No
+50004,40,Male,Marketing,Manager,19.6,27572,5,73,No
+50005,44,Male,IT,Executive,15.2,102387,3,61,No
+50006,49,Male,HR,Executive,9.8,93747,1,20,No
+50007,35,Male,Finance,Executive,14.8,130438,3,78,Yes
+50008,44,Female,HR,Executive,15.4,92851,1,77,No
+50009,29,Male,IT,Senior Executive,2.7,66648,4,44,Yes
+50010,46,Male,HR,Manager,6.8,144332,2,67,No
+50011,47,Female,Marketing,Manager,6.9,117778,1,67,Yes
+50012,29,Male,IT,Team Lead,18.9,38662,5,48,No
+50013,59,Female,IT,Senior Executive,17.1,59198,4,76,Yes
+50014,25,Female,Marketing,Senior Executive,6.4,124946,2,68,Yes
+50015,28,Female,HR,Manager,19.8,114594,4,67,No
+50016,21,Male,IT,Manager,1.9,76086,4,16,No
+50017,32,Female,HR,Senior Executive,7.0,77902,4,7,No
+50018,27,Male,Marketing,Team Lead,4.4,60400,4,23,Yes
+50019,40,Female,HR,Executive,10.7,71142,2,14,No
+50020,26,Male,Marketing,Senior Executive,18.1,48435,3,51,Yes
+50021,45,Male,Marketing,Executive,15.9,98701,2,28,No
+50022,21,Male,IT,Team Lead,1.2,140095,4,18,No
+50023,55,Female,HR,Team Lead,5.3,104003,2,46,No
+50024,30,Male,Marketing,Manager,15.7,79298,2,54,No
+50025,35,Female,Finance,Manager,6.0,109712,4,76,No
+50026,59,Male,HR,Team Lead,16.5,95665,2,64,Yes
+50027,25,Female,Marketing,Team Lead,12.6,102445,2,47,Yes
+50028,30,Female,Finance,Executive,14.1,40346,3,55,No
+50029,44,Male,Operations,Team Lead,14.4,94577,4,1,No
+50030,56,Female,Marketing,Manager,11.7,76955,1,7,No
+50031,24,Male,Finance,Manager,4.1,22783,1,10,No
+50032,29,Male,IT,Executive,16.3,39531,5,16,Yes
+50033,40,Female,HR,Team Lead,11.5,89895,3,65,No
+50034,22,Female,IT,Team Lead,14.6,20487,3,21,Yes
+50035,21,Female,Operations,Senior Executive,1.0,27439,2,54,Yes
+50036,37,Male,Finance,Senior Executive,4.0,117000,3,57,No
+50037,52,Female,Operations,Executive,11.5,126781,4,72,Yes
+50038,50,Female,IT,Senior Executive,16.1,136943,1,5,Yes
+50039,49,Male,IT,Team Lead,7.5,73777,2,39,No
+50040,28,Male,IT,Manager,15.1,131236,5,77,No
+50041,44,Female,Marketing,Team Lead,0.5,50367,2,57,No
+50042,31,Male,IT,Team Lead,1.4,127572,1,50,No
+50043,56,Female,HR,Senior Executive,13.9,122606,4,25,No
+50044,21,Male,Finance,Manager,19.8,50370,4,35,No
+50045,28,Male,Operations,Senior Executive,6.7,131030,2,4,No
+50046,44,Female,HR,Executive,7.1,79443,4,71,No
+50047,49,Female,Finance,Manager,7.1,145310,2,33,No
+50048,53,Female,Operations,Team Lead,11.8,60085,3,11,No
+50049,42,Male,Marketing,Manager,8.2,77675,2,17,No
+50050,57,Female,HR,Manager,7.6,54560,4,8,Yes
+50051,56,Male,HR,Executive,15.5,26838,3,13,No
+50052,54,Female,IT,Team Lead,0.5,135655,1,13,No
+50053,24,Male,IT,Team Lead,17.5,106548,5,68,No
+50054,48,Male,Operations,Executive,15.0,130229,2,44,No
+50055,54,Male,Operations,Senior Executive,19.2,69677,4,34,No
+50056,40,Male,Operations,Manager,16.9,52904,2,6,No
+50057,48,Female,Operations,Senior Executive,16.0,22643,5,36,No
+50058,25,Male,Finance,Manager,6.2,97135,4,10,No
+50059,40,Male,Marketing,Senior Executive,15.7,102291,5,72,No
+50060,54,Female,IT,Team Lead,12.1,44337,5,17,Yes
+50061,51,Male,Operations,Senior Executive,7.3,32625,3,61,No
+50062,58,Female,HR,Team Lead,16.3,98246,4,74,Yes
+50063,30,Male,Operations,Team Lead,10.0,67526,1,10,No
+50064,50,Female,Operations,Executive,19.7,52318,3,30,No
+50065,38,Male,Marketing,Manager,14.6,115959,3,76,No
+50066,52,Male,Marketing,Executive,17.7,53365,5,17,No
+50067,23,Female,HR,Executive,18.1,32270,2,72,No
+50068,40,Female,HR,Manager,11.9,66789,4,22,No
+50069,39,Female,Finance,Executive,17.9,134415,4,24,No
+50070,42,Male,IT,Manager,12.2,25797,5,70,Yes
+50071,24,Female,Finance,Senior Executive,10.5,42578,1,26,No
+50072,32,Male,Finance,Team Lead,19.9,61443,4,63,Yes
+50073,37,Female,IT,Manager,14.1,122016,3,19,No
+50074,33,Female,Finance,Executive,14.0,69515,1,41,Yes
+50075,50,Female,Operations,Executive,19.8,123948,2,56,Yes
+50076,30,Female,Finance,Senior Executive,12.8,100643,3,62,No
+50077,33,Male,Operations,Manager,0.6,103101,3,62,No
+50078,24,Male,Finance,Team Lead,13.7,42294,3,31,Yes
+50079,35,Male,HR,Team Lead,12.8,41229,3,7,No
+50080,41,Male,HR,Team Lead,14.7,44588,2,74,No
+50081,36,Female,HR,Senior Executive,19.5,45358,1,24,No
+50082,56,Female,Marketing,Manager,14.9,86618,2,70,No
+50083,25,Female,Finance,Manager,19.9,72569,2,19,No
+50084,29,Male,IT,Manager,15.9,100576,4,17,No
+50085,47,Female,Finance,Senior Executive,19.6,102087,3,15,No
+50086,44,Female,Finance,Executive,9.0,77657,3,17,No
+50087,34,Female,Finance,Executive,5.3,142442,4,67,No
+50088,24,Female,HR,Team Lead,11.2,81554,4,45,No
+50089,50,Female,HR,Team Lead,17.8,20382,1,58,Yes
+50090,33,Female,IT,Manager,17.3,62669,5,70,No
+50091,33,Female,Finance,Senior Executive,13.6,130664,3,31,Yes
+50092,36,Female,Finance,Senior Executive,8.4,95523,3,55,No
+50093,50,Male,HR,Team Lead,5.9,67421,5,59,No
+50094,29,Female,Operations,Executive,1.0,66610,2,53,Yes
+50095,59,Male,Finance,Manager,8.6,80396,2,66,No
+50096,27,Male,HR,Executive,10.3,105060,4,76,No
+50097,42,Female,Finance,Executive,19.7,46525,5,2,Yes
+50098,48,Male,Operations,Team Lead,11.6,92239,2,71,No
+50099,28,Female,Finance,Team Lead,11.8,137801,2,1,No
+50100,38,Male,HR,Executive,9.6,35745,3,65,No
+50101,26,Female,IT,Manager,0.8,118112,3,28,No
+50102,57,Male,Marketing,Senior Executive,6.1,67605,4,46,No
+50103,50,Male,Marketing,Senior Executive,13.3,108459,3,1,No
+50104,47,Female,Finance,Manager,14.3,72466,5,8,No
+50105,21,Male,Operations,Senior Executive,19.0,86514,4,54,No
+50106,43,Male,HR,Executive,9.9,116449,5,70,No
+50107,55,Female,Marketing,Senior Executive,13.9,34749,1,33,Yes
+50108,33,Male,Operations,Manager,16.0,20760,2,9,No
+50109,27,Male,Operations,Team Lead,15.3,112741,1,62,No
+50110,55,Male,IT,Manager,3.0,28198,2,61,No
+50111,50,Female,Finance,Senior Executive,17.9,136366,5,4,Yes
+50112,59,Female,Finance,Executive,15.2,46446,1,43,No
+50113,38,Male,HR,Senior Executive,13.6,109397,3,27,No
+50114,26,Female,Operations,Manager,3.3,33553,1,14,No
+50115,36,Female,Marketing,Executive,18.9,27969,2,11,No
+50116,33,Male,HR,Manager,13.8,53675,4,50,Yes
+50117,49,Female,HR,Team Lead,4.2,70219,3,1,Yes
+50118,58,Male,HR,Manager,11.9,48370,3,66,No
+50119,30,Female,Marketing,Senior Executive,3.4,80747,1,44,No
+50120,44,Male,HR,Team Lead,1.6,124431,2,11,No
+50121,42,Female,IT,Team Lead,14.4,23451,1,20,Yes
+50122,25,Male,Marketing,Manager,14.9,143472,3,38,No
+50123,48,Female,Operations,Team Lead,10.5,131036,3,50,No
+50124,33,Female,Marketing,Senior Executive,3.4,90790,5,36,No
+50125,32,Female,Finance,Team Lead,6.9,118769,3,11,No
+50126,27,Female,Finance,Manager,2.5,55710,5,36,No
+50127,54,Female,Operations,Team Lead,4.9,143335,1,61,Yes
+50128,42,Male,Operations,Senior Executive,1.8,27670,3,5,Yes
+50129,42,Female,Finance,Executive,13.4,127373,4,7,Yes
+50130,51,Female,HR,Executive,15.7,110680,2,30,Yes
+50131,49,Male,Marketing,Senior Executive,10.6,92008,4,0,No
+50132,33,Female,Marketing,Executive,13.4,52059,3,43,Yes
+50133,33,Female,IT,Senior Executive,3.4,97182,3,32,No
+50134,57,Male,HR,Senior Executive,18.2,132846,5,64,No
+50135,28,Male,Finance,Team Lead,12.1,93008,3,34,No
+50136,42,Female,HR,Team Lead,2.9,143351,5,36,No
+50137,59,Male,HR,Manager,10.9,149428,4,37,No
+50138,36,Male,IT,Executive,9.4,73951,1,49,No
+50139,39,Female,Operations,Executive,17.4,86491,1,55,No
+50140,49,Female,IT,Senior Executive,15.1,136791,3,57,No
+50141,37,Female,Operations,Team Lead,2.4,76768,1,73,No
+50142,26,Male,Operations,Manager,13.1,116131,1,16,Yes
+50143,56,Female,Finance,Senior Executive,1.5,137795,3,49,No
+50144,34,Male,Operations,Executive,10.2,46320,4,34,No
+50145,53,Male,Marketing,Executive,16.8,116013,2,44,No
+50146,44,Male,HR,Senior Executive,4.2,133396,5,39,No
+50147,52,Male,Marketing,Manager,13.1,86499,1,57,Yes
+50148,54,Female,Operations,Manager,8.4,26970,4,32,No
+50149,48,Male,IT,Executive,2.7,110854,2,32,No
+50150,35,Female,IT,Team Lead,17.8,91027,2,32,No
+50151,53,Female,IT,Team Lead,14.5,61156,5,35,No
+50152,55,Male,HR,Executive,5.7,82006,1,45,No
+50153,52,Female,Operations,Manager,4.4,104700,5,21,No
+50154,59,Male,Finance,Manager,7.5,58616,3,77,No
+50155,39,Female,Finance,Team Lead,14.4,131957,3,21,Yes
+50156,30,Female,IT,Team Lead,18.4,77157,3,0,Yes
+50157,30,Male,Marketing,Team Lead,10.5,106249,4,18,Yes
+50158,34,Female,IT,Senior Executive,0.6,130425,4,59,Yes
+50159,42,Female,Marketing,Executive,0.8,23765,5,23,No
+50160,22,Male,HR,Team Lead,5.3,58827,1,58,No
+50161,52,Male,Finance,Team Lead,15.8,42279,5,66,Yes
+50162,35,Female,HR,Team Lead,3.8,25990,2,67,Yes
+50163,37,Male,Marketing,Senior Executive,11.7,83418,3,32,No
+50164,46,Female,IT,Manager,1.1,56714,4,73,No
+50165,54,Male,Operations,Manager,6.8,92300,3,43,No
+50166,42,Male,Operations,Manager,13.4,81624,2,56,No
+50167,40,Male,Finance,Team Lead,13.8,133215,4,29,No
+50168,39,Female,Operations,Team Lead,0.8,21073,1,30,No
+50169,21,Male,HR,Senior Executive,3.9,125639,2,72,Yes
+50170,34,Female,Operations,Manager,5.0,58619,1,78,No
+50171,31,Male,IT,Senior Executive,5.5,26991,1,78,No
+50172,48,Female,Operations,Executive,7.5,22589,1,10,No
+50173,49,Male,Finance,Senior Executive,15.8,61834,4,41,No
+50174,29,Female,HR,Manager,2.5,29768,3,74,No
+50175,54,Male,IT,Team Lead,5.0,42828,4,35,No
+50176,57,Male,Operations,Team Lead,10.0,115406,5,76,No
+50177,46,Male,HR,Team Lead,15.7,104513,5,47,No
+50178,49,Female,Finance,Team Lead,15.5,111160,1,27,No
+50179,28,Male,Marketing,Executive,2.6,95314,1,47,Yes
+50180,36,Male,Marketing,Manager,10.9,147124,2,38,No
+50181,21,Male,Finance,Senior Executive,13.2,140405,1,62,No
+50182,39,Female,Finance,Team Lead,9.0,146681,2,1,Yes
+50183,21,Male,Marketing,Executive,17.1,43640,1,24,No
+50184,30,Female,IT,Team Lead,2.6,137823,5,65,No
+50185,55,Male,IT,Executive,11.4,127100,4,74,No
+50186,26,Female,HR,Manager,14.5,26264,5,7,Yes
+50187,42,Female,HR,Executive,19.6,148765,2,71,No
+50188,37,Male,HR,Executive,0.7,39623,1,8,Yes
+50189,32,Female,IT,Executive,14.6,56608,1,13,No
+50190,53,Male,IT,Senior Executive,7.1,110495,3,56,No
+50191,57,Male,Marketing,Team Lead,15.0,31340,1,1,No
+50192,26,Female,Marketing,Senior Executive,10.8,142160,1,12,No
+50193,49,Male,IT,Senior Executive,15.7,139536,1,3,No
+50194,50,Male,Operations,Manager,3.7,145171,4,62,No
+50195,52,Female,HR,Manager,18.3,136029,4,63,No
+50196,28,Female,Operations,Executive,8.1,71571,1,50,Yes
+50197,49,Female,IT,Senior Executive,16.2,109345,4,7,No
+50198,35,Female,IT,Manager,6.2,36608,1,34,Yes
+50199,34,Male,HR,Executive,3.1,139142,2,42,No
+50200,40,Male,Operations,Team Lead,7.2,97845,5,1,Yes
+50201,34,Male,Finance,Executive,13.7,91352,3,76,No
+50202,45,Female,Operations,Senior Executive,18.4,64042,5,28,No
+50203,24,Female,Marketing,Senior Executive,10.2,141885,2,66,No
+50204,28,Male,Operations,Senior Executive,7.0,117964,2,10,No
+50205,53,Female,HR,Manager,18.7,102450,3,51,Yes
+50206,54,Male,HR,Executive,14.9,72321,4,51,No
+50207,32,Female,Finance,Manager,9.3,71016,1,18,No
+50208,48,Female,Marketing,Manager,13.2,93215,4,22,Yes
+50209,25,Female,Finance,Senior Executive,5.5,108206,1,70,No
+50210,59,Female,IT,Executive,10.2,80353,1,21,No
+50211,52,Female,IT,Executive,8.3,141235,3,11,No
+50212,51,Male,IT,Executive,5.3,54073,4,55,No
+50213,35,Female,HR,Senior Executive,2.2,102956,2,74,No
+50214,33,Male,IT,Executive,5.0,95532,2,76,No
+50215,37,Female,Finance,Senior Executive,16.1,23102,3,25,Yes
+50216,47,Female,Finance,Manager,15.3,87976,4,55,No
+50217,53,Male,Marketing,Senior Executive,9.0,46803,5,22,No
+50218,54,Male,HR,Team Lead,17.7,53540,5,41,No
+50219,29,Male,HR,Manager,3.6,88086,2,59,No
+50220,51,Female,Operations,Executive,14.8,89863,3,56,Yes
+50221,54,Male,IT,Manager,15.4,41838,5,55,Yes
+50222,36,Male,Operations,Executive,1.8,137520,4,58,Yes
+50223,43,Male,HR,Manager,17.4,56511,2,53,No
+50224,55,Male,Finance,Manager,15.6,52532,5,10,No
+50225,33,Male,Finance,Manager,9.6,31566,4,45,No
+50226,25,Male,Marketing,Executive,10.1,108824,5,41,No
+50227,41,Female,HR,Senior Executive,11.9,26584,5,28,No
+50228,39,Female,Finance,Senior Executive,9.8,28270,2,68,No
+50229,42,Female,Marketing,Senior Executive,1.6,26449,2,37,No
+50230,43,Male,IT,Executive,8.9,116093,3,7,No
+50231,39,Male,Operations,Executive,17.4,125087,4,0,No
+50232,26,Male,IT,Manager,10.9,65854,5,42,No
+50233,26,Female,Operations,Manager,5.3,63135,4,50,No
+50234,26,Female,Finance,Team Lead,18.2,102289,5,19,No
+50235,27,Female,Marketing,Team Lead,8.8,45265,2,67,No
+50236,52,Male,IT,Executive,4.1,82929,2,45,No
+50237,50,Female,IT,Executive,12.1,126528,1,47,No
+50238,37,Male,Finance,Manager,3.9,47225,1,39,No
+50239,25,Male,Marketing,Senior Executive,12.7,139740,5,3,No
+50240,59,Female,Operations,Senior Executive,13.7,49355,3,6,No
+50241,34,Male,Marketing,Team Lead,4.3,94984,4,27,No
+50242,23,Female,HR,Manager,6.6,82693,1,50,No
+50243,33,Female,IT,Manager,12.0,76478,2,69,No
+50244,45,Female,Finance,Senior Executive,4.8,21713,4,34,Yes
+50245,48,Female,Finance,Manager,16.5,63226,3,11,Yes
+50246,37,Male,Finance,Senior Executive,14.8,77671,1,78,Yes
+50247,26,Female,HR,Manager,3.9,42696,2,48,Yes
+50248,50,Female,Marketing,Executive,12.0,32529,1,39,No
+50249,30,Male,IT,Manager,11.7,124683,1,31,Yes
+50250,35,Female,IT,Manager,7.8,147114,4,42,No
+50251,27,Male,HR,Team Lead,13.3,90703,2,68,Yes
+50252,23,Female,HR,Manager,8.9,41727,3,41,Yes
+50253,58,Female,Finance,Manager,9.2,69266,4,29,Yes
+50254,43,Male,Marketing,Manager,8.2,55145,5,57,No
+50255,30,Female,HR,Manager,11.7,120685,3,55,No
+50256,56,Female,Marketing,Team Lead,0.5,31714,2,36,No
+50257,36,Female,IT,Manager,12.2,79890,1,56,No
+50258,41,Female,IT,Senior Executive,2.8,71003,2,60,No
+50259,53,Male,IT,Manager,4.9,112748,2,38,No
+50260,56,Female,Operations,Manager,16.4,42229,2,50,No
+50261,42,Female,Finance,Senior Executive,4.9,40498,3,71,Yes
+50262,27,Female,HR,Executive,12.6,75712,1,31,No
+50263,41,Female,Finance,Executive,5.4,51372,1,45,Yes
+50264,21,Female,HR,Team Lead,19.9,103004,2,46,No
+50265,41,Male,Operations,Manager,19.6,57321,5,32,No
+50266,54,Female,Operations,Executive,7.0,124762,5,59,No
+50267,42,Male,Operations,Manager,18.3,117713,3,79,No
+50268,23,Female,Marketing,Executive,18.3,49180,5,29,No
+50269,32,Male,Operations,Senior Executive,4.5,65257,5,29,No
+50270,32,Female,HR,Executive,7.8,149357,1,75,No
+50271,57,Male,Operations,Manager,4.2,104885,2,11,No
+50272,29,Female,Marketing,Senior Executive,5.0,118265,5,9,No
+50273,28,Male,Marketing,Executive,10.8,22060,1,39,Yes
+50274,28,Male,Operations,Manager,10.3,124619,3,55,No
+50275,42,Male,Finance,Team Lead,9.3,31206,3,69,No
+50276,40,Male,Finance,Senior Executive,4.4,136581,3,8,No
+50277,43,Female,Operations,Team Lead,10.9,41910,5,28,Yes
+50278,56,Male,HR,Manager,19.0,128703,2,75,No
+50279,38,Female,IT,Manager,7.5,92335,1,23,No
+50280,54,Male,Operations,Manager,13.9,84283,5,56,No
+50281,29,Male,Finance,Manager,5.0,122485,1,18,Yes
+50282,36,Male,IT,Executive,15.2,112121,1,3,Yes
+50283,31,Male,Finance,Manager,11.7,148491,2,65,No
+50284,39,Male,Finance,Team Lead,18.4,21558,5,67,No
+50285,48,Male,Operations,Senior Executive,2.0,44220,2,78,Yes
+50286,38,Male,HR,Team Lead,13.3,62160,5,67,No
+50287,47,Male,Finance,Senior Executive,8.7,123191,4,22,Yes
+50288,21,Male,HR,Senior Executive,7.7,20504,3,74,No
+50289,29,Female,IT,Team Lead,7.0,88345,3,26,No
+50290,34,Female,Marketing,Team Lead,18.1,56219,3,59,Yes
+50291,45,Female,IT,Team Lead,5.4,131418,4,34,No
+50292,33,Female,Finance,Senior Executive,12.8,90831,4,6,No
+50293,55,Female,Finance,Team Lead,1.0,111065,5,73,No
+50294,24,Male,HR,Executive,19.3,56869,5,55,No
+50295,53,Female,Operations,Executive,16.1,107413,1,47,No
+50296,47,Male,IT,Senior Executive,13.9,109628,4,19,Yes
+50297,38,Male,HR,Team Lead,10.6,54958,2,23,No
+50298,32,Female,IT,Manager,7.5,140871,1,32,No
+50299,22,Female,Finance,Senior Executive,9.0,62623,3,37,No
+50300,58,Male,Finance,Team Lead,13.4,78810,1,43,No
+50301,58,Female,Marketing,Senior Executive,10.4,30329,4,66,No
+50302,30,Female,HR,Manager,17.9,123268,1,72,No
+50303,48,Female,Operations,Manager,6.8,99299,5,19,No
+50304,40,Female,Marketing,Team Lead,17.3,78666,3,3,Yes
+50305,41,Female,Marketing,Team Lead,6.4,119145,2,54,No
+50306,23,Female,Marketing,Manager,3.3,145224,1,42,No
+50307,29,Female,Operations,Executive,3.0,47196,1,61,No
+50308,41,Male,Operations,Executive,5.7,132357,1,17,Yes
+50309,31,Male,Operations,Senior Executive,18.4,57478,2,26,No
+50310,53,Female,Marketing,Executive,16.1,113224,1,23,No
+50311,23,Male,HR,Team Lead,14.8,56573,4,11,Yes
+50312,43,Female,Marketing,Senior Executive,6.5,51286,3,11,Yes
+50313,24,Male,Operations,Manager,4.7,80922,3,42,No
+50314,49,Female,Finance,Manager,7.6,33016,1,49,No
+50315,36,Female,IT,Senior Executive,13.5,148680,5,66,No
+50316,59,Male,Finance,Team Lead,3.7,25052,3,21,Yes
+50317,30,Male,Finance,Executive,10.8,86515,3,72,No
+50318,57,Male,Marketing,Manager,7.7,97239,4,22,No
+50319,33,Male,HR,Manager,15.3,24402,5,36,No
+50320,55,Female,Finance,Team Lead,13.1,109628,3,79,No
+50321,57,Female,IT,Executive,3.4,31616,5,53,No
+50322,43,Male,Finance,Executive,6.5,54008,2,65,Yes
+50323,26,Female,IT,Senior Executive,16.3,149621,2,18,No
+50324,36,Male,IT,Executive,17.8,115455,2,10,No
+50325,24,Female,IT,Manager,10.5,100334,2,75,No
+50326,58,Male,Operations,Senior Executive,16.6,135649,3,55,Yes
+50327,43,Female,Marketing,Executive,4.6,99089,5,77,No
+50328,35,Male,Operations,Team Lead,8.4,143381,5,45,No
+50329,57,Male,Finance,Team Lead,13.0,149228,3,75,No
+50330,40,Female,Finance,Senior Executive,1.0,134916,1,47,No
+50331,58,Male,Finance,Team Lead,10.8,124545,1,18,No
+50332,44,Female,IT,Manager,17.1,96582,5,68,Yes
+50333,26,Male,IT,Manager,4.6,111791,4,40,No
+50334,45,Male,HR,Manager,0.7,134845,2,1,No
+50335,32,Female,Marketing,Manager,13.1,60985,2,9,No
+50336,47,Male,IT,Manager,13.4,120244,2,35,No
+50337,55,Female,IT,Senior Executive,5.2,87891,3,14,Yes
+50338,37,Male,Finance,Team Lead,6.9,135657,4,62,No
+50339,40,Male,IT,Manager,7.2,34649,5,60,No
+50340,55,Male,IT,Manager,2.1,107021,1,3,Yes
+50341,31,Male,HR,Team Lead,15.0,108858,4,29,No
+50342,25,Male,HR,Senior Executive,4.7,29019,3,4,No
+50343,24,Male,HR,Executive,15.6,73341,1,62,No
+50344,25,Female,Finance,Senior Executive,13.2,143844,2,12,No
+50345,28,Female,IT,Executive,2.5,140084,4,51,No
+50346,23,Female,Marketing,Team Lead,15.1,63758,4,24,No
+50347,31,Male,Marketing,Executive,3.3,107872,2,67,No
+50348,29,Male,Finance,Executive,13.3,145735,4,19,No
+50349,50,Male,HR,Team Lead,2.0,30207,4,55,No
+50350,25,Male,IT,Manager,11.8,24622,4,18,No
+50351,21,Male,Operations,Manager,9.2,66154,2,53,No
+50352,44,Male,HR,Executive,10.7,136852,1,55,No
+50353,41,Male,IT,Team Lead,15.1,91640,5,3,No
+50354,50,Male,HR,Manager,14.9,21947,2,44,No
+50355,52,Male,HR,Manager,1.4,63419,1,17,No
+50356,43,Female,Operations,Executive,3.7,47513,3,44,No
+50357,51,Male,IT,Manager,19.6,136606,4,59,No
+50358,21,Male,Operations,Executive,9.1,82922,3,53,Yes
+50359,55,Male,Marketing,Team Lead,16.5,45320,2,36,No
+50360,41,Female,IT,Executive,11.2,98062,1,41,No
+50361,36,Female,HR,Executive,15.6,131671,4,33,Yes
+50362,41,Female,Operations,Executive,1.9,117004,4,57,No
+50363,38,Male,Marketing,Team Lead,10.3,93707,1,45,Yes
+50364,31,Male,HR,Senior Executive,15.2,147920,2,14,Yes
+50365,21,Male,Finance,Executive,8.6,113703,1,51,No
+50366,21,Male,IT,Senior Executive,14.4,59933,1,61,No
+50367,55,Female,Finance,Senior Executive,16.7,145621,5,26,No
+50368,56,Female,Marketing,Executive,16.4,134918,1,64,No
+50369,49,Female,Marketing,Executive,4.5,23786,1,58,Yes
+50370,56,Female,HR,Manager,18.2,87335,5,43,Yes
+50371,42,Female,Marketing,Senior Executive,11.9,107268,4,14,Yes
+50372,59,Male,Finance,Senior Executive,4.1,126295,4,68,No
+50373,45,Female,HR,Team Lead,16.0,69287,4,69,Yes
+50374,43,Female,HR,Senior Executive,5.5,72605,5,2,No
+50375,44,Male,Operations,Team Lead,7.0,20724,5,12,No
+50376,49,Female,HR,Manager,8.6,145842,2,13,No
+50377,32,Female,Operations,Executive,10.4,66255,2,2,No
+50378,32,Female,Operations,Senior Executive,3.9,84889,4,6,No
+50379,43,Male,HR,Executive,17.1,70773,2,54,No
+50380,49,Male,Finance,Team Lead,16.5,35741,1,13,Yes
+50381,57,Male,IT,Senior Executive,6.4,146858,2,72,Yes
+50382,23,Male,IT,Senior Executive,19.4,144864,5,52,No
+50383,50,Male,Finance,Manager,1.6,143278,3,56,No
+50384,29,Male,IT,Executive,2.9,108576,3,37,No
+50385,59,Male,Marketing,Executive,15.4,75667,1,5,Yes
+50386,47,Female,IT,Executive,5.2,84244,5,43,No
+50387,38,Male,Marketing,Senior Executive,4.6,71272,3,9,No
+50388,37,Male,Marketing,Senior Executive,0.9,123794,2,50,Yes
+50389,28,Male,Marketing,Team Lead,6.9,92989,4,7,Yes
+50390,25,Male,HR,Manager,2.0,81719,3,24,Yes
+50391,24,Female,IT,Manager,12.9,127324,4,57,Yes
+50392,44,Male,Marketing,Executive,0.6,55004,2,74,Yes
+50393,49,Female,Operations,Senior Executive,9.0,120757,2,52,No
+50394,57,Male,IT,Team Lead,17.8,138658,3,50,No
+50395,52,Male,Marketing,Team Lead,11.5,90940,4,41,No
+50396,42,Female,Finance,Team Lead,6.9,129468,3,60,No
+50397,21,Female,Marketing,Senior Executive,2.6,86002,2,17,No
+50398,49,Male,Finance,Manager,19.1,83263,2,40,Yes
+50399,28,Female,HR,Team Lead,0.9,109885,3,59,No
+50400,47,Female,Finance,Senior Executive,10.2,149938,2,42,No
+50401,26,Female,IT,Senior Executive,7.7,98470,3,74,No
+50402,33,Female,HR,Executive,15.5,146215,4,12,No
+50403,22,Male,HR,Senior Executive,12.0,112824,2,18,No
+50404,42,Male,IT,Senior Executive,18.8,114347,2,71,No
+50405,46,Male,IT,Executive,19.1,47814,3,5,No
+50406,46,Male,Marketing,Team Lead,14.7,123405,4,57,No
+50407,42,Female,Marketing,Team Lead,9.8,137364,3,40,No
+50408,59,Female,Operations,Senior Executive,10.9,93043,3,67,No
+50409,58,Female,Finance,Team Lead,18.4,35745,5,77,No
+50410,46,Male,Operations,Executive,14.9,114241,2,64,No
+50411,25,Female,Finance,Executive,15.1,107376,2,25,No
+50412,50,Female,HR,Team Lead,18.8,96535,4,47,No
+50413,43,Female,HR,Team Lead,7.8,123254,5,39,No
+50414,53,Female,Marketing,Team Lead,16.7,106955,5,37,No
+50415,43,Female,Marketing,Senior Executive,15.2,95460,2,64,No
+50416,55,Male,Finance,Executive,8.0,142250,3,4,No
+50417,31,Female,IT,Senior Executive,15.2,26126,2,44,No
+50418,34,Male,Operations,Manager,2.6,51578,5,28,No
+50419,56,Female,Marketing,Manager,0.8,52041,2,63,No
+50420,54,Female,Operations,Executive,17.5,79062,2,13,No
+50421,59,Male,Operations,Executive,19.6,98276,5,76,No
+50422,37,Male,Marketing,Team Lead,8.9,67131,1,32,No
+50423,25,Female,Operations,Executive,8.1,87847,5,31,No
+50424,44,Female,IT,Senior Executive,4.9,59847,4,73,No
+50425,21,Male,HR,Senior Executive,18.8,20463,2,15,No
+50426,39,Male,HR,Executive,5.6,89935,2,51,Yes
+50427,30,Male,HR,Manager,13.1,71046,2,45,No
+50428,27,Female,HR,Executive,16.4,66654,5,9,No
+50429,38,Male,IT,Executive,9.3,32595,2,54,No
+50430,23,Male,Marketing,Manager,19.2,136014,2,3,No
+50431,35,Female,Operations,Team Lead,7.6,97018,1,49,No
+50432,23,Male,IT,Senior Executive,15.6,46739,1,56,Yes
+50433,52,Male,IT,Manager,4.7,82805,5,55,No
+50434,29,Female,Marketing,Team Lead,9.9,104026,3,44,No
+50435,34,Female,Marketing,Team Lead,14.1,94536,2,10,No
+50436,49,Male,HR,Executive,5.4,64594,2,22,No
+50437,47,Male,IT,Manager,16.7,60526,4,14,Yes
+50438,39,Female,Marketing,Team Lead,18.8,21703,5,21,Yes
+50439,41,Female,HR,Executive,6.1,68203,1,53,No
+50440,44,Male,Finance,Senior Executive,10.1,117284,4,14,No
+50441,49,Female,HR,Executive,0.8,102346,5,16,No
+50442,49,Female,Operations,Team Lead,8.4,142592,1,0,No
+50443,36,Male,HR,Senior Executive,12.2,145482,2,25,No
+50444,54,Male,Operations,Manager,3.7,47101,1,70,No
+50445,21,Female,Operations,Team Lead,19.6,46190,2,45,No
+50446,22,Male,IT,Team Lead,3.9,125881,4,1,No
+50447,45,Male,Operations,Executive,10.4,117436,3,45,No
+50448,57,Female,Finance,Manager,0.7,40593,3,4,No
+50449,43,Female,Marketing,Senior Executive,6.3,25190,1,72,Yes
+50450,22,Male,Marketing,Senior Executive,16.2,31731,4,67,No
+50451,41,Female,Finance,Senior Executive,8.5,38817,4,57,No
+50452,29,Male,Finance,Team Lead,17.2,94427,3,62,No
+50453,44,Male,HR,Team Lead,16.5,49113,1,69,No
+50454,48,Female,Finance,Manager,9.0,78795,4,19,Yes
+50455,56,Male,Operations,Team Lead,3.5,62970,3,72,Yes
+50456,35,Male,Finance,Senior Executive,16.3,107977,3,66,Yes
+50457,43,Female,IT,Senior Executive,18.5,87490,4,73,No
+50458,46,Female,Finance,Team Lead,5.3,113605,3,59,No
+50459,46,Female,Marketing,Team Lead,2.0,119753,3,54,No
+50460,51,Female,Finance,Team Lead,17.0,94661,3,4,No
+50461,33,Male,HR,Team Lead,12.4,58909,4,60,No
+50462,44,Female,Finance,Executive,5.6,98290,1,75,No
+50463,59,Female,Operations,Executive,3.9,117797,3,21,Yes
+50464,45,Female,Operations,Team Lead,10.2,90306,2,72,Yes
+50465,43,Female,Operations,Team Lead,18.6,147944,2,5,No
+50466,48,Female,Finance,Senior Executive,3.8,115129,3,35,No
+50467,23,Male,Finance,Senior Executive,14.6,148921,1,42,No
+50468,39,Male,IT,Executive,5.4,27602,4,68,Yes
+50469,58,Male,Marketing,Manager,12.0,73977,5,9,Yes
+50470,38,Female,HR,Executive,9.2,131694,4,49,Yes
+50471,38,Male,HR,Team Lead,11.5,148495,4,23,No
+50472,25,Male,Finance,Senior Executive,3.1,73987,2,59,No
+50473,46,Male,IT,Manager,17.3,145397,1,9,No
+50474,50,Female,IT,Executive,19.7,65969,3,20,Yes
+50475,32,Male,IT,Manager,10.2,121702,5,71,No
+50476,58,Female,Finance,Executive,8.4,68034,3,31,No
+50477,52,Male,HR,Manager,15.9,57035,2,32,No
+50478,24,Female,IT,Team Lead,3.8,54341,3,7,No
+50479,51,Male,IT,Manager,1.9,36128,2,49,No
+50480,34,Female,Finance,Team Lead,14.5,128271,5,10,No
+50481,26,Female,HR,Team Lead,11.2,108772,2,19,No
+50482,21,Female,Marketing,Executive,12.8,57585,2,65,No
+50483,36,Male,Marketing,Manager,1.1,127433,1,71,Yes
+50484,57,Male,Operations,Executive,17.3,52464,3,70,No
+50485,34,Female,HR,Executive,13.5,97084,4,45,No
+50486,53,Female,IT,Executive,2.7,29887,3,0,No
+50487,53,Male,Finance,Manager,13.4,100862,2,39,No
+50488,32,Female,Operations,Senior Executive,19.6,138043,5,27,No
+50489,22,Male,Marketing,Manager,5.5,121746,4,24,No
+50490,53,Female,HR,Senior Executive,18.9,27015,2,74,No
+50491,27,Female,Finance,Manager,19.2,100912,5,63,No
+50492,24,Male,IT,Manager,16.9,23887,1,52,No
+50493,59,Female,Finance,Senior Executive,10.0,135094,4,11,Yes
+50494,51,Female,IT,Senior Executive,9.2,62775,3,16,No
+50495,25,Female,Operations,Senior Executive,7.6,131221,3,37,No
+50496,48,Male,Marketing,Team Lead,15.8,26309,1,60,No
+50497,51,Male,IT,Executive,3.4,105257,1,48,No
+50498,47,Female,Operations,Executive,10.9,94125,3,17,No
+50499,47,Male,Finance,Team Lead,11.2,145310,4,71,Yes
+50500,48,Male,Marketing,Senior Executive,18.7,38360,3,44,No
+50501,46,Male,HR,Team Lead,18.2,70799,4,8,No
+50502,23,Male,IT,Senior Executive,9.9,79068,1,51,No
+50503,42,Male,HR,Manager,12.2,136499,1,59,No
+50504,41,Male,Finance,Executive,14.3,59577,1,32,No
+50505,31,Male,Marketing,Manager,11.1,106990,4,35,No
+50506,54,Female,Finance,Team Lead,6.0,136694,3,36,No
+50507,58,Male,Marketing,Team Lead,3.6,138376,1,42,No
+50508,39,Male,IT,Senior Executive,11.5,137126,5,64,No
+50509,38,Female,IT,Executive,9.0,113680,2,30,No
+50510,38,Female,Operations,Senior Executive,5.8,95773,5,4,Yes
+50511,55,Female,IT,Senior Executive,7.2,20497,2,69,No
+50512,29,Female,HR,Senior Executive,1.3,96253,1,67,No
+50513,34,Male,Finance,Team Lead,11.3,109754,1,31,No
+50514,26,Male,Marketing,Manager,2.0,60528,4,79,Yes
+50515,43,Male,Marketing,Executive,2.6,107487,2,14,No
+50516,39,Female,Operations,Senior Executive,15.6,99313,5,24,No
+50517,22,Female,Marketing,Manager,2.6,46612,1,2,No
+50518,53,Male,Marketing,Team Lead,14.1,21955,1,40,Yes
+50519,28,Male,Operations,Manager,10.0,50288,1,70,No
+50520,25,Female,IT,Team Lead,5.2,108423,1,13,No
+50521,50,Female,IT,Manager,11.6,79293,1,72,No
+50522,33,Female,HR,Executive,10.7,140562,4,18,No
+50523,57,Male,Operations,Team Lead,18.3,62002,2,76,No
+50524,21,Male,IT,Executive,19.3,129611,1,14,Yes
+50525,58,Male,Finance,Senior Executive,9.6,101693,1,13,Yes
+50526,23,Male,Operations,Executive,7.6,84744,4,46,No
+50527,42,Female,Finance,Manager,11.9,22355,3,30,No
+50528,43,Female,Finance,Team Lead,2.7,111464,5,43,Yes
+50529,30,Female,IT,Manager,10.8,46133,1,32,No
+50530,51,Male,Operations,Executive,2.5,149526,1,13,Yes
+50531,43,Female,Finance,Team Lead,5.9,63196,5,55,Yes
+50532,44,Female,Finance,Senior Executive,15.3,85807,5,78,No
+50533,31,Male,Finance,Executive,15.5,42784,5,52,No
+50534,29,Male,Operations,Team Lead,9.8,21488,1,47,No
+50535,32,Male,Finance,Executive,19.3,94362,1,53,No
+50536,24,Male,Finance,Team Lead,3.5,149711,5,32,No
+50537,28,Male,Finance,Team Lead,6.6,133789,2,36,No
+50538,37,Male,Finance,Executive,12.1,95462,4,0,No
+50539,27,Male,IT,Team Lead,9.2,142899,4,6,No
+50540,28,Male,Finance,Senior Executive,13.1,127247,3,74,No
+50541,34,Female,Operations,Senior Executive,2.2,86751,2,20,No
+50542,37,Female,IT,Team Lead,14.5,117445,2,16,Yes
+50543,23,Female,Marketing,Senior Executive,3.7,72625,1,8,No
+50544,25,Female,Finance,Senior Executive,5.8,114212,1,51,Yes
+50545,23,Female,Operations,Executive,4.0,147919,2,18,No
+50546,50,Male,Marketing,Senior Executive,14.5,44001,4,72,No
+50547,58,Female,IT,Manager,1.3,118174,4,34,No
+50548,34,Female,Marketing,Manager,19.6,60732,4,19,No
+50549,45,Female,Finance,Team Lead,7.8,126814,2,68,No
+50550,21,Male,Marketing,Manager,5.0,75696,3,53,No
+50551,42,Male,IT,Executive,6.9,113743,5,3,No
+50552,56,Female,Operations,Team Lead,10.2,94554,2,39,No
+50553,47,Male,Marketing,Senior Executive,5.0,128329,4,18,No
+50554,50,Male,Operations,Team Lead,15.4,73941,4,77,No
+50555,36,Male,IT,Manager,15.2,92987,5,11,Yes
+50556,25,Female,Operations,Team Lead,12.8,68538,4,19,No
+50557,42,Male,IT,Executive,18.2,107754,4,59,No
+50558,48,Female,Finance,Manager,14.6,23523,2,53,No
+50559,31,Female,Operations,Executive,3.6,81812,5,45,No
+50560,48,Female,Operations,Senior Executive,5.7,122428,5,29,No
+50561,21,Female,HR,Senior Executive,9.8,30957,1,8,Yes
+50562,42,Male,Operations,Team Lead,6.5,101178,5,30,No
+50563,46,Male,Operations,Senior Executive,8.2,73864,4,69,No
+50564,24,Female,Marketing,Senior Executive,9.8,57253,1,10,Yes
+50565,26,Male,IT,Executive,15.8,110315,5,37,No
+50566,21,Male,Marketing,Manager,11.1,53998,5,39,No
+50567,38,Male,Finance,Senior Executive,16.8,119452,1,37,No
+50568,31,Male,IT,Team Lead,12.4,72408,4,73,Yes
+50569,44,Female,Marketing,Senior Executive,0.6,61387,5,57,No
+50570,23,Male,Operations,Executive,19.8,53191,3,4,No
+50571,40,Female,Marketing,Senior Executive,3.4,138546,1,46,Yes
+50572,43,Male,Marketing,Manager,8.2,90772,3,59,Yes
+50573,33,Female,Marketing,Team Lead,0.9,38724,4,1,No
+50574,45,Male,Marketing,Team Lead,10.7,147122,3,47,No
+50575,23,Female,IT,Executive,13.7,58800,2,37,No
+50576,28,Female,HR,Executive,6.1,90882,3,18,No
+50577,49,Male,IT,Senior Executive,18.6,39486,4,28,Yes
+50578,58,Male,Finance,Executive,3.4,91543,3,33,Yes
+50579,28,Male,Operations,Team Lead,19.0,28430,4,29,No
+50580,56,Female,HR,Senior Executive,15.8,148529,1,78,No
+50581,53,Female,Marketing,Team Lead,3.5,90550,5,15,No
+50582,46,Female,HR,Senior Executive,2.5,127409,4,32,Yes
+50583,41,Male,HR,Team Lead,1.8,107114,5,73,Yes
+50584,26,Male,Finance,Executive,11.8,102780,1,42,Yes
+50585,56,Female,HR,Senior Executive,5.4,123888,1,3,Yes
+50586,36,Male,IT,Senior Executive,19.4,74189,3,27,No
+50587,25,Male,Marketing,Team Lead,2.7,104536,3,12,Yes
+50588,48,Female,Operations,Senior Executive,16.3,135443,2,68,No
+50589,29,Male,HR,Executive,7.8,136846,4,69,No
+50590,22,Male,Operations,Team Lead,0.8,75038,2,7,No
+50591,41,Female,HR,Executive,14.9,143305,2,76,No
+50592,23,Male,HR,Manager,12.0,85828,5,61,No
+50593,34,Female,Operations,Executive,5.0,123136,2,78,No
+50594,29,Female,IT,Team Lead,7.4,94302,5,46,No
+50595,42,Female,Operations,Team Lead,3.4,139131,1,31,No
+50596,32,Male,HR,Manager,3.1,68159,1,52,Yes
+50597,21,Male,Marketing,Senior Executive,11.6,96826,5,30,No
+50598,31,Female,Finance,Team Lead,11.0,28927,3,58,No
+50599,54,Male,Marketing,Senior Executive,4.5,79662,2,18,No
+50600,48,Female,Operations,Executive,6.3,49332,5,44,Yes
+50601,52,Male,Operations,Executive,19.9,123831,5,70,Yes
+50602,32,Female,IT,Team Lead,7.4,137326,4,53,No
+50603,52,Male,IT,Senior Executive,10.0,139827,4,39,No
+50604,57,Male,Marketing,Executive,3.6,100557,2,30,No
+50605,54,Female,Marketing,Manager,1.0,147721,4,39,No
+50606,30,Male,Marketing,Manager,12.4,75770,4,53,No
+50607,50,Male,HR,Manager,5.2,68155,1,63,No
+50608,35,Female,Marketing,Team Lead,15.0,88186,4,13,No
+50609,23,Female,IT,Executive,5.0,110300,2,34,No
+50610,30,Female,HR,Manager,7.7,101897,4,57,No
+50611,32,Male,IT,Senior Executive,13.1,32076,4,39,No
+50612,22,Female,Operations,Executive,14.0,138007,3,0,Yes
+50613,55,Female,IT,Team Lead,7.2,41265,3,40,No
+50614,38,Female,Finance,Executive,14.7,42716,2,65,No
+50615,26,Female,HR,Manager,11.5,24632,2,62,No
+50616,59,Male,HR,Team Lead,16.4,86587,4,66,No
+50617,52,Male,Marketing,Team Lead,15.3,77327,3,48,No
+50618,35,Male,IT,Team Lead,16.5,126079,1,77,No
+50619,38,Female,HR,Executive,5.7,63521,1,37,Yes
+50620,43,Female,HR,Senior Executive,2.1,125276,1,76,No
+50621,37,Male,HR,Senior Executive,0.6,76062,1,19,No
+50622,26,Male,Operations,Team Lead,6.9,24029,1,70,No
+50623,41,Male,HR,Team Lead,8.6,128295,5,42,Yes
+50624,23,Female,HR,Manager,5.7,124384,3,4,Yes
+50625,43,Female,IT,Team Lead,3.6,128943,2,34,No
+50626,25,Male,Operations,Manager,8.8,57056,2,20,No
+50627,54,Male,IT,Manager,6.5,25484,4,57,No
+50628,53,Female,Marketing,Team Lead,1.1,73563,4,51,Yes
+50629,45,Female,Finance,Manager,16.8,78626,1,43,No
+50630,31,Female,IT,Executive,10.6,33743,5,28,No
+50631,37,Female,IT,Senior Executive,3.9,102256,2,3,No
+50632,53,Male,Finance,Senior Executive,6.9,106830,2,21,No
+50633,40,Male,IT,Team Lead,11.7,62039,2,47,Yes
+50634,39,Female,IT,Executive,2.4,62809,5,9,Yes
+50635,39,Female,HR,Manager,10.6,136884,2,72,No
+50636,21,Female,HR,Senior Executive,14.9,29685,1,47,No
+50637,33,Male,Marketing,Senior Executive,3.7,123259,1,61,Yes
+50638,42,Male,Marketing,Senior Executive,10.4,87252,5,9,No
+50639,37,Male,IT,Manager,18.0,80766,3,13,No
+50640,48,Male,Operations,Executive,14.2,57704,2,70,No
+50641,39,Female,HR,Team Lead,9.2,124779,5,24,No
+50642,36,Female,Marketing,Team Lead,1.0,23157,1,75,Yes
+50643,49,Female,Finance,Team Lead,18.7,99669,2,75,No
+50644,40,Male,HR,Manager,19.6,53042,1,56,No
+50645,31,Female,IT,Executive,15.8,107033,1,41,No
+50646,46,Female,Finance,Executive,5.0,76127,5,79,Yes
+50647,21,Female,HR,Manager,11.9,66437,3,53,No
+50648,45,Female,Marketing,Manager,16.2,26986,3,39,No
+50649,53,Female,IT,Executive,10.9,109160,4,20,No
+50650,35,Male,Operations,Executive,19.4,72659,2,74,No
+50651,58,Male,Finance,Team Lead,12.1,66430,4,21,Yes
+50652,35,Male,Marketing,Executive,0.6,59761,3,40,No
+50653,48,Male,IT,Team Lead,6.3,20271,5,66,No
+50654,23,Male,Marketing,Team Lead,19.9,137555,1,32,Yes
+50655,38,Female,Finance,Team Lead,19.6,66695,4,19,No
+50656,22,Male,Operations,Team Lead,18.5,30259,1,33,Yes
+50657,23,Male,Finance,Team Lead,4.5,104450,3,52,No
+50658,51,Female,Finance,Senior Executive,5.5,71758,5,26,No
+50659,30,Female,IT,Senior Executive,12.3,120344,5,68,No
+50660,44,Female,HR,Manager,1.2,72918,3,72,Yes
+50661,25,Male,Finance,Executive,17.9,126541,2,25,No
+50662,57,Female,HR,Manager,10.1,72193,3,37,No
+50663,51,Female,IT,Team Lead,14.8,33674,1,79,No
+50664,37,Female,Operations,Senior Executive,12.5,129220,5,77,No
+50665,26,Female,Operations,Senior Executive,7.5,80438,2,48,No
+50666,22,Male,IT,Executive,18.1,37793,3,53,No
+50667,47,Female,Marketing,Executive,5.3,90403,5,25,No
+50668,53,Male,Operations,Manager,10.5,88890,4,0,No
+50669,34,Male,Operations,Team Lead,8.7,149215,4,63,No
+50670,32,Male,Marketing,Executive,14.5,61089,1,72,No
+50671,32,Female,Operations,Executive,14.3,110852,4,17,Yes
+50672,54,Female,IT,Senior Executive,9.3,38296,4,5,No
+50673,58,Male,IT,Manager,6.9,29381,1,59,Yes
+50674,45,Female,Marketing,Manager,4.6,78970,3,14,Yes
+50675,47,Male,HR,Manager,1.4,148081,3,53,No
+50676,41,Female,Marketing,Team Lead,9.1,141381,2,67,No
+50677,53,Male,IT,Manager,0.6,110584,2,38,No
+50678,59,Male,Operations,Senior Executive,7.4,128031,2,62,Yes
+50679,49,Female,Marketing,Manager,19.4,134239,2,36,Yes
+50680,39,Female,Finance,Team Lead,13.2,126414,5,72,Yes
+50681,22,Male,HR,Senior Executive,8.6,80144,1,15,No
+50682,31,Female,HR,Team Lead,18.9,95429,2,71,No
+50683,31,Female,Operations,Senior Executive,19.9,25086,2,62,Yes
+50684,23,Female,Operations,Senior Executive,15.6,32102,2,54,Yes
+50685,52,Male,Marketing,Manager,6.4,49274,4,45,No
+50686,52,Male,Operations,Manager,17.8,25011,5,23,Yes
+50687,36,Male,IT,Manager,15.9,86415,3,29,No
+50688,27,Female,Operations,Senior Executive,13.2,50043,5,6,No
+50689,41,Male,HR,Manager,9.6,71981,2,37,No
+50690,43,Female,Operations,Team Lead,5.8,32235,5,19,Yes
+50691,29,Female,Operations,Senior Executive,6.3,88859,3,79,No
+50692,38,Male,Marketing,Team Lead,10.6,50427,1,35,No
+50693,52,Female,HR,Executive,10.3,67936,2,12,No
+50694,28,Female,Marketing,Senior Executive,9.3,125198,4,19,No
+50695,30,Male,IT,Team Lead,16.0,95046,1,59,No
+50696,48,Male,HR,Team Lead,5.4,91754,1,75,No
+50697,58,Male,Finance,Executive,2.9,43270,4,60,Yes
+50698,52,Female,IT,Manager,3.8,36367,1,42,No
+50699,29,Male,IT,Manager,12.6,130637,5,70,No
+50700,59,Male,Marketing,Senior Executive,1.1,75875,4,64,No
+50701,21,Male,HR,Manager,6.6,115184,5,39,No
+50702,52,Male,Marketing,Senior Executive,3.8,26344,3,49,Yes
+50703,44,Male,Finance,Team Lead,1.0,80072,3,42,No
+50704,53,Male,IT,Manager,18.9,100109,2,52,No
+50705,28,Female,HR,Senior Executive,7.6,31686,4,63,No
+50706,21,Female,IT,Manager,18.1,112884,3,26,No
+50707,51,Male,Marketing,Manager,9.9,146399,3,72,No
+50708,48,Male,Finance,Executive,19.4,103230,5,40,No
+50709,56,Female,Operations,Manager,3.2,149420,3,8,No
+50710,41,Female,Marketing,Senior Executive,7.7,79499,1,41,No
+50711,21,Female,Finance,Team Lead,5.3,26908,3,38,No
+50712,23,Male,Marketing,Executive,15.1,87126,4,10,No
+50713,27,Female,Operations,Manager,5.2,130245,2,72,Yes
+50714,55,Female,Operations,Manager,11.4,113808,1,25,No
+50715,34,Female,Operations,Senior Executive,4.2,93681,3,51,No
+50716,49,Male,IT,Executive,1.8,138754,4,22,Yes
+50717,25,Female,Finance,Manager,17.8,91119,1,74,No
+50718,41,Male,Marketing,Manager,15.5,69622,2,27,No
+50719,38,Female,Finance,Senior Executive,16.0,103107,5,62,No
+50720,43,Female,Marketing,Manager,19.9,84851,3,24,No
+50721,39,Male,IT,Senior Executive,17.1,111679,5,38,Yes
+50722,52,Male,HR,Senior Executive,1.9,70414,3,1,No
+50723,44,Female,Operations,Executive,6.0,38073,5,10,No
+50724,35,Male,HR,Executive,8.6,105474,5,20,Yes
+50725,37,Female,Finance,Senior Executive,19.0,64654,5,65,Yes
+50726,38,Female,Marketing,Executive,0.9,66128,5,78,Yes
+50727,28,Male,Marketing,Manager,14.9,57105,5,39,No
+50728,28,Female,Finance,Manager,1.8,22607,5,73,No
+50729,56,Male,IT,Executive,3.9,57436,2,79,Yes
+50730,21,Female,Operations,Senior Executive,5.3,79790,3,17,No
+50731,42,Male,Finance,Team Lead,9.2,122992,3,9,No
+50732,50,Male,IT,Executive,18.1,21641,1,27,No
+50733,51,Female,Finance,Executive,17.2,102313,1,33,No
+50734,30,Female,Operations,Executive,6.7,37501,1,55,No
+50735,30,Male,Marketing,Executive,19.7,81462,2,55,No
+50736,22,Male,Marketing,Executive,1.7,24754,1,29,No
+50737,41,Female,Operations,Team Lead,1.6,20617,5,14,No
+50738,37,Male,Marketing,Senior Executive,9.9,109168,5,65,No
+50739,36,Female,IT,Team Lead,7.1,136647,4,43,No
+50740,47,Male,IT,Senior Executive,17.5,139730,5,44,No
+50741,56,Female,HR,Executive,1.0,103869,4,51,No
+50742,23,Male,IT,Senior Executive,17.7,124329,3,16,No
+50743,40,Female,Operations,Team Lead,6.0,82427,4,4,Yes
+50744,26,Male,HR,Senior Executive,15.9,98747,5,23,No
+50745,34,Female,Marketing,Manager,0.8,42504,4,72,No
+50746,23,Male,HR,Manager,18.3,42248,5,6,Yes
+50747,53,Female,Finance,Executive,16.6,121996,2,11,No
+50748,59,Male,Finance,Team Lead,11.9,71455,3,27,Yes
+50749,52,Male,Marketing,Team Lead,16.7,118530,1,72,No
+50750,32,Male,IT,Manager,16.1,53401,2,28,No
+50751,43,Male,HR,Manager,17.2,137205,4,30,No
+50752,21,Female,Marketing,Manager,13.8,21838,4,25,Yes
+50753,42,Female,Operations,Manager,19.4,137746,4,19,No
+50754,22,Male,HR,Manager,11.8,148779,3,4,No
+50755,35,Female,Marketing,Senior Executive,14.1,91646,5,76,No
+50756,39,Male,Finance,Senior Executive,9.8,22177,3,77,Yes
+50757,56,Female,Finance,Manager,19.8,28054,4,59,No
+50758,31,Female,HR,Senior Executive,0.9,115376,4,53,No
+50759,55,Female,IT,Executive,14.9,143408,3,25,No
+50760,27,Female,HR,Senior Executive,5.2,61723,5,41,No
+50761,31,Female,Finance,Team Lead,13.6,73391,5,17,No
+50762,47,Female,HR,Executive,3.9,136409,1,7,No
+50763,35,Male,IT,Senior Executive,7.2,86888,5,75,No
+50764,28,Male,HR,Executive,13.9,144187,4,31,No
+50765,50,Male,Marketing,Team Lead,8.5,90220,2,6,No
+50766,51,Female,Operations,Manager,13.5,91832,4,36,No
+50767,45,Male,IT,Team Lead,13.1,129465,1,40,No
+50768,29,Male,Marketing,Executive,2.7,100304,5,19,No
+50769,46,Female,Finance,Manager,14.0,97634,1,39,No
+50770,52,Female,Marketing,Senior Executive,5.9,129554,5,18,Yes
+50771,45,Male,IT,Team Lead,8.8,69899,2,21,No
+50772,35,Male,Marketing,Senior Executive,10.5,46396,3,77,No
+50773,56,Male,IT,Manager,7.9,105378,4,31,No
+50774,36,Male,HR,Manager,5.6,36023,2,24,No
+50775,31,Female,Finance,Manager,3.7,149472,1,18,No
+50776,54,Female,Operations,Manager,12.7,87250,3,78,No
+50777,31,Male,HR,Executive,15.2,125789,1,74,No
+50778,48,Female,Marketing,Team Lead,4.2,98942,1,69,No
+50779,50,Female,Marketing,Manager,12.3,131257,5,1,No
+50780,52,Male,IT,Manager,3.1,76850,2,23,No
+50781,29,Female,HR,Team Lead,13.1,27676,3,13,No
+50782,29,Male,Marketing,Team Lead,6.3,22747,5,1,Yes
+50783,44,Male,IT,Senior Executive,7.5,95973,5,43,Yes
+50784,57,Male,Finance,Manager,13.6,138715,2,3,No
+50785,37,Female,Operations,Manager,9.5,22136,5,44,No
+50786,26,Female,Marketing,Manager,9.3,130431,2,58,No
+50787,52,Male,Marketing,Team Lead,6.4,91094,5,69,Yes
+50788,33,Male,Marketing,Senior Executive,16.4,55933,5,37,Yes
+50789,40,Male,IT,Senior Executive,6.4,40370,1,76,Yes
+50790,24,Female,HR,Team Lead,13.1,82710,1,11,No
+50791,33,Female,IT,Manager,1.7,39880,2,67,No
+50792,59,Female,Finance,Team Lead,18.3,23086,4,12,No
+50793,33,Female,IT,Manager,19.3,117317,2,7,No
+50794,55,Female,Marketing,Manager,4.1,22574,3,7,No
+50795,26,Female,IT,Executive,9.1,104643,2,10,No
+50796,37,Female,IT,Senior Executive,2.6,140674,4,19,No
+50797,56,Female,Marketing,Manager,8.6,50249,4,67,No
+50798,25,Female,Finance,Team Lead,17.4,63194,1,38,Yes
+50799,47,Female,Marketing,Executive,12.1,23217,2,14,No
+50800,38,Female,Operations,Team Lead,3.2,87847,5,69,Yes
+50801,42,Male,HR,Executive,19.4,110107,4,43,No
+50802,25,Female,IT,Manager,11.4,89239,2,2,No
+50803,39,Male,Marketing,Manager,1.9,40914,2,73,No
+50804,54,Female,Finance,Executive,7.6,111443,3,7,Yes
+50805,24,Male,IT,Executive,3.3,137373,1,79,No
+50806,35,Male,HR,Team Lead,17.7,41527,5,68,No
+50807,24,Male,Marketing,Manager,8.1,102689,4,32,Yes
+50808,27,Female,Finance,Manager,10.2,110413,2,1,No
+50809,43,Male,Operations,Manager,16.9,117041,5,27,No
+50810,50,Male,Marketing,Executive,11.6,119050,4,43,No
+50811,28,Female,Operations,Manager,1.4,102646,2,72,No
+50812,22,Female,HR,Team Lead,2.0,85279,1,49,Yes
+50813,34,Male,Operations,Senior Executive,3.9,55851,2,25,No
+50814,40,Male,IT,Team Lead,13.7,148037,4,61,No
+50815,59,Male,Marketing,Senior Executive,12.5,63424,4,22,No
+50816,25,Male,Operations,Executive,7.5,139913,1,75,Yes
+50817,37,Female,Finance,Executive,6.6,114547,5,13,No
+50818,57,Female,Marketing,Manager,2.1,112745,2,34,Yes
+50819,32,Female,HR,Executive,1.9,88771,5,2,No
+50820,40,Male,IT,Team Lead,12.9,132597,2,2,Yes
+50821,29,Female,IT,Manager,16.0,126376,5,7,Yes
+50822,55,Female,HR,Executive,10.3,64643,4,56,No
+50823,36,Female,Marketing,Manager,13.9,95615,3,8,No
+50824,47,Male,HR,Manager,9.2,95757,3,12,No
+50825,24,Male,HR,Executive,1.6,123082,4,38,No
+50826,46,Female,IT,Executive,0.5,60912,3,66,Yes
+50827,49,Female,Finance,Team Lead,16.1,34143,5,40,Yes
+50828,23,Male,Marketing,Team Lead,17.4,25147,3,78,No
+50829,54,Male,HR,Executive,19.7,108381,2,27,No
+50830,51,Male,IT,Executive,6.5,49387,4,26,Yes
+50831,43,Male,IT,Executive,14.8,27940,5,49,No
+50832,46,Male,IT,Executive,14.9,108410,1,18,No
+50833,43,Female,Marketing,Team Lead,13.5,122035,1,30,No
+50834,28,Female,HR,Manager,16.5,105549,5,15,No
+50835,45,Female,HR,Executive,19.1,136661,2,48,Yes
+50836,52,Female,HR,Team Lead,4.4,57455,5,74,Yes
+50837,31,Female,Finance,Senior Executive,14.7,68301,5,30,No
+50838,36,Female,HR,Manager,8.6,42626,5,41,No
+50839,52,Female,Marketing,Manager,16.6,45798,2,3,No
+50840,46,Female,Operations,Executive,18.3,96340,1,29,Yes
+50841,43,Male,HR,Manager,18.9,86189,2,13,Yes
+50842,57,Male,Marketing,Manager,15.3,126372,2,26,Yes
+50843,43,Female,HR,Executive,18.4,42306,3,15,Yes
+50844,52,Male,Marketing,Manager,2.8,91097,5,54,No
+50845,51,Male,IT,Executive,2.3,33868,4,43,No
+50846,25,Female,IT,Executive,8.6,98780,3,3,No
+50847,26,Female,Finance,Executive,14.5,45786,4,42,No
+50848,49,Male,Finance,Senior Executive,16.2,106586,3,61,No
+50849,57,Female,Finance,Senior Executive,16.8,35756,5,14,No
+50850,36,Female,IT,Manager,3.1,141216,5,21,No
+50851,37,Female,Operations,Executive,13.8,52384,2,74,No
+50852,42,Female,Operations,Manager,11.3,40150,2,7,Yes
+50853,23,Male,Marketing,Manager,3.8,34566,4,21,No
+50854,42,Female,IT,Executive,9.8,26267,4,79,No
+50855,50,Male,Finance,Team Lead,15.6,78423,3,22,No
+50856,25,Male,HR,Senior Executive,3.7,69594,2,38,No
+50857,42,Female,HR,Executive,18.0,115853,3,37,No
+50858,28,Female,Marketing,Manager,3.7,125605,3,70,Yes
+50859,41,Male,IT,Team Lead,2.1,79037,5,32,No
+50860,41,Female,HR,Executive,7.6,38742,5,7,No
+50861,41,Male,Marketing,Senior Executive,15.7,100632,5,73,No
+50862,35,Female,HR,Senior Executive,15.6,65161,5,15,Yes
+50863,23,Female,IT,Manager,17.4,86358,4,73,Yes
+50864,29,Female,IT,Executive,4.0,129428,1,61,No
+50865,28,Male,Finance,Executive,4.8,94078,4,0,No
+50866,43,Female,Finance,Senior Executive,4.5,26503,4,72,No
+50867,59,Male,IT,Executive,4.5,148742,3,19,Yes
+50868,34,Male,HR,Team Lead,8.7,83108,2,68,No
+50869,34,Male,Marketing,Senior Executive,19.9,146497,4,67,No
+50870,45,Male,HR,Senior Executive,13.7,108326,5,39,Yes
+50871,35,Male,IT,Manager,7.1,98356,5,39,Yes
+50872,37,Male,IT,Senior Executive,19.2,52109,5,34,No
+50873,27,Female,Marketing,Team Lead,11.5,145704,1,2,No
+50874,49,Female,Operations,Manager,1.3,66549,3,14,No
+50875,59,Male,Operations,Senior Executive,1.9,77762,2,10,No
+50876,25,Male,Finance,Executive,11.3,30889,4,48,No
+50877,24,Male,HR,Manager,4.3,109680,2,60,No
+50878,40,Male,Finance,Executive,5.7,105101,5,38,No
+50879,32,Female,Operations,Senior Executive,7.8,137453,3,71,No
+50880,51,Female,HR,Team Lead,12.1,97130,3,72,No
+50881,57,Male,IT,Executive,18.7,120009,2,46,No
+50882,37,Female,Finance,Manager,2.2,81880,3,23,No
+50883,23,Female,Operations,Executive,18.5,106181,3,41,No
+50884,31,Female,HR,Senior Executive,8.9,94154,1,9,No
+50885,29,Male,IT,Senior Executive,6.6,113819,3,21,No
+50886,23,Female,HR,Senior Executive,6.1,104618,2,42,No
+50887,52,Male,HR,Senior Executive,7.5,100440,1,78,Yes
+50888,26,Male,Marketing,Manager,8.7,57927,3,79,No
+50889,27,Female,Finance,Senior Executive,8.2,96391,1,45,No
+50890,29,Male,HR,Executive,17.0,95923,4,21,No
+50891,53,Male,HR,Senior Executive,7.1,60189,3,41,No
+50892,40,Female,Marketing,Executive,5.2,22690,3,26,No
+50893,45,Male,Operations,Team Lead,18.7,106650,1,54,No
+50894,58,Male,Marketing,Team Lead,15.7,135059,3,57,No
+50895,42,Male,Operations,Senior Executive,1.1,97813,3,2,No
+50896,54,Male,IT,Senior Executive,11.3,95379,2,25,No
+50897,50,Male,IT,Executive,12.7,23220,5,14,Yes
+50898,31,Female,Finance,Team Lead,3.4,87043,2,41,No
+50899,40,Female,Marketing,Senior Executive,7.0,57089,5,1,No
+50900,46,Male,Operations,Executive,4.0,113693,2,33,No
+50901,42,Male,HR,Team Lead,2.2,62068,5,62,Yes
+50902,48,Female,Finance,Executive,10.5,110171,4,39,No
+50903,41,Male,Marketing,Manager,1.9,25833,4,19,No
+50904,44,Female,Operations,Team Lead,9.5,125318,3,25,No
+50905,24,Male,HR,Manager,9.8,24127,1,79,No
+50906,47,Male,Marketing,Team Lead,12.1,66401,5,15,No
+50907,43,Female,Finance,Senior Executive,17.2,71001,2,13,No
+50908,59,Female,Finance,Manager,1.0,85868,2,51,No
+50909,50,Male,Marketing,Team Lead,4.0,132029,2,2,No
+50910,47,Male,Finance,Manager,13.5,100949,1,8,Yes
+50911,51,Male,Marketing,Executive,8.8,44827,3,71,No
+50912,42,Female,Marketing,Executive,4.0,148703,2,78,No
+50913,30,Male,IT,Executive,4.2,46033,2,11,No
+50914,48,Female,Operations,Senior Executive,4.2,21952,2,77,No
+50915,23,Male,IT,Senior Executive,18.5,56304,2,19,No
+50916,44,Female,Marketing,Executive,7.9,107490,3,27,No
+50917,32,Male,IT,Manager,11.7,43444,5,10,No
+50918,56,Female,Marketing,Manager,11.6,98306,3,4,No
+50919,39,Male,HR,Senior Executive,15.2,51931,5,28,Yes
+50920,52,Male,IT,Executive,9.9,48475,2,44,No
+50921,53,Female,HR,Senior Executive,8.0,45522,3,79,No
+50922,36,Female,IT,Senior Executive,14.4,43968,2,50,No
+50923,57,Female,Marketing,Executive,6.8,33476,1,55,No
+50924,51,Female,Operations,Executive,2.4,38073,1,23,No
+50925,36,Male,Finance,Team Lead,20.0,140816,3,71,No
+50926,36,Male,Finance,Senior Executive,18.7,74808,3,39,No
+50927,32,Female,HR,Manager,9.4,73672,1,15,No
+50928,30,Female,IT,Executive,14.6,125079,4,65,Yes
+50929,56,Male,HR,Manager,16.4,29176,1,59,No
+50930,37,Female,Operations,Executive,7.9,83235,3,6,No
+50931,53,Female,IT,Executive,4.0,40326,5,31,No
+50932,33,Female,Finance,Manager,3.6,23802,5,78,No
+50933,35,Female,Operations,Executive,17.6,29501,1,55,No
+50934,32,Male,Marketing,Executive,19.8,36864,3,79,No
+50935,50,Male,Operations,Team Lead,9.3,31686,3,71,No
+50936,56,Female,IT,Executive,19.6,86653,5,35,No
+50937,39,Female,IT,Executive,9.7,137197,5,46,No
+50938,37,Female,Finance,Manager,9.3,147682,5,49,No
+50939,42,Male,HR,Manager,5.7,34418,4,31,No
+50940,46,Male,Operations,Executive,11.6,131087,3,50,Yes
+50941,55,Female,Marketing,Team Lead,8.1,110465,4,55,No
+50942,31,Male,Operations,Manager,17.4,45049,2,62,No
+50943,48,Male,Finance,Executive,19.1,77079,1,2,No
+50944,38,Female,HR,Senior Executive,14.4,29197,5,70,Yes
+50945,28,Male,HR,Manager,9.0,108332,3,17,No
+50946,43,Male,Operations,Executive,7.6,61969,2,57,No
+50947,59,Male,Operations,Executive,19.4,64569,4,71,No
+50948,48,Female,HR,Senior Executive,13.8,45690,3,20,No
+50949,24,Female,Finance,Manager,12.7,46411,5,24,Yes
+50950,34,Male,Operations,Executive,0.5,31881,1,1,Yes
+50951,30,Male,Finance,Executive,19.7,120326,2,0,No
+50952,46,Male,IT,Team Lead,7.1,66212,1,0,Yes
+50953,35,Male,IT,Senior Executive,10.3,117376,1,60,No
+50954,34,Female,Marketing,Team Lead,3.7,54192,1,65,No
+50955,29,Female,Marketing,Executive,19.3,102584,5,67,No
+50956,59,Male,Marketing,Manager,17.7,62912,4,15,No
+50957,41,Female,HR,Senior Executive,8.2,99378,2,0,No
+50958,51,Female,Marketing,Team Lead,16.0,76730,4,74,No
+50959,41,Male,HR,Manager,19.9,110551,4,78,No
+50960,37,Female,Marketing,Manager,17.5,122065,5,38,No
+50961,53,Male,Finance,Executive,2.5,26465,5,34,Yes
+50962,46,Female,Marketing,Team Lead,2.1,141893,3,6,No
+50963,24,Female,Marketing,Manager,7.2,32877,4,55,No
+50964,42,Male,Marketing,Manager,10.0,130783,2,62,No
+50965,26,Female,HR,Team Lead,5.0,124448,4,71,Yes
+50966,54,Female,Operations,Senior Executive,3.6,56524,1,63,No
+50967,29,Female,Marketing,Manager,5.0,32852,5,56,No
+50968,50,Female,IT,Manager,19.2,96928,1,63,Yes
+50969,34,Male,Marketing,Manager,16.3,142644,4,34,Yes
+50970,59,Male,IT,Executive,3.5,31781,1,5,No
+50971,50,Female,Operations,Executive,8.9,102680,4,62,Yes
+50972,54,Female,IT,Manager,17.0,48217,5,41,No
+50973,33,Male,Marketing,Senior Executive,5.8,40646,1,59,No
+50974,32,Male,Operations,Manager,10.7,39852,1,17,No
+50975,22,Male,Finance,Executive,6.1,28664,2,64,No
+50976,42,Female,Marketing,Executive,18.6,104960,2,68,Yes
+50977,48,Male,Marketing,Executive,10.5,42995,2,75,No
+50978,49,Female,IT,Team Lead,6.5,135925,2,64,No
+50979,54,Male,HR,Senior Executive,14.9,100641,3,6,No
+50980,22,Male,Finance,Executive,5.1,29757,4,5,No
+50981,33,Male,Finance,Senior Executive,5.5,139923,1,2,Yes
+50982,46,Female,IT,Senior Executive,18.6,93649,5,58,No
+50983,27,Female,Finance,Executive,17.9,42783,2,77,No
+50984,56,Male,Finance,Senior Executive,3.9,37592,1,31,Yes
+50985,31,Female,Finance,Senior Executive,2.4,100926,4,7,No
+50986,46,Male,HR,Executive,17.7,87085,1,62,No
+50987,40,Male,Operations,Team Lead,8.9,95487,3,53,No
+50988,43,Female,HR,Team Lead,15.5,28803,5,32,No
+50989,38,Male,IT,Executive,7.3,30750,1,37,No
+50990,59,Female,Marketing,Manager,1.7,128247,2,27,No
+50991,50,Female,Finance,Senior Executive,2.9,37523,1,68,No
+50992,53,Female,Finance,Senior Executive,9.6,62992,3,52,No
+50993,27,Female,Finance,Team Lead,15.0,87179,3,13,Yes
+50994,37,Female,Marketing,Team Lead,18.3,74113,4,34,No
+50995,34,Male,HR,Executive,6.6,23810,1,7,No
+50996,35,Female,Operations,Senior Executive,8.7,107539,5,78,No
+50997,22,Female,IT,Senior Executive,14.4,28364,5,39,No
+50998,51,Male,Marketing,Team Lead,14.0,43212,1,79,No
+50999,38,Female,Marketing,Manager,15.7,32053,3,22,Yes
+51000,55,Male,Operations,Team Lead,15.1,51383,5,17,No
+51001,54,Female,Marketing,Manager,10.8,109492,1,59,No
+51002,21,Male,HR,Executive,15.3,104358,4,30,Yes
+51003,40,Male,Operations,Senior Executive,9.2,57820,1,19,No
+51004,49,Female,IT,Senior Executive,15.7,77004,1,2,No
+51005,26,Female,Operations,Senior Executive,9.5,138253,1,71,Yes
+51006,41,Male,Operations,Manager,2.7,23367,2,52,No
+51007,40,Male,Marketing,Executive,16.3,76068,2,21,No
+51008,22,Male,Marketing,Executive,3.6,91442,4,64,No
+51009,36,Female,Marketing,Team Lead,11.1,31927,4,79,No
+51010,36,Male,HR,Senior Executive,14.8,146413,2,55,Yes
+51011,38,Female,Operations,Manager,12.8,64904,5,23,No
+51012,30,Female,Marketing,Executive,11.4,130861,1,33,No
+51013,46,Male,Operations,Executive,19.5,95331,4,16,No
+51014,54,Male,HR,Executive,5.6,43580,2,13,No
+51015,23,Male,Finance,Executive,10.3,97810,2,52,No
+51016,59,Female,IT,Senior Executive,15.0,72586,2,40,No
+51017,21,Female,Operations,Team Lead,19.6,84223,4,50,No
+51018,49,Male,Marketing,Senior Executive,5.1,35058,4,15,No
+51019,21,Female,Finance,Manager,1.2,51480,4,12,Yes
+51020,29,Male,Operations,Executive,16.3,121577,5,21,Yes
+51021,27,Male,IT,Manager,13.1,31400,4,60,No
+51022,49,Female,HR,Executive,9.2,129284,2,5,No
+51023,49,Female,IT,Executive,18.3,24422,1,32,Yes
+51024,53,Male,Marketing,Executive,19.6,23941,2,58,No
+51025,38,Male,IT,Executive,7.8,55838,1,0,No
+51026,42,Male,HR,Executive,8.7,78056,5,4,No
+51027,54,Female,Operations,Team Lead,11.4,89979,2,7,Yes
+51028,28,Male,Operations,Executive,8.0,79212,3,44,No
+51029,25,Female,Finance,Team Lead,9.2,112381,5,21,Yes
+51030,26,Male,HR,Senior Executive,5.1,91087,4,70,No
+51031,58,Female,IT,Senior Executive,16.8,66175,4,46,Yes
+51032,51,Male,IT,Team Lead,9.2,139405,1,74,No
+51033,50,Male,HR,Team Lead,18.1,139899,4,35,No
+51034,54,Female,Finance,Executive,16.5,87397,2,43,No
+51035,26,Female,Operations,Manager,10.2,132133,2,41,No
+51036,45,Female,HR,Manager,4.4,45159,4,40,Yes
+51037,21,Male,HR,Senior Executive,0.8,54332,3,64,No
+51038,37,Male,IT,Team Lead,6.0,145047,3,12,No
+51039,37,Female,IT,Executive,16.3,113594,5,54,No
+51040,33,Female,IT,Team Lead,11.3,23850,4,14,No
+51041,43,Male,Marketing,Executive,15.5,48293,3,23,No
+51042,24,Male,Marketing,Manager,2.4,123988,4,74,No
+51043,41,Female,HR,Senior Executive,15.2,100895,5,24,No
+51044,25,Male,IT,Manager,19.7,20543,4,29,No
+51045,27,Male,Marketing,Executive,1.0,135313,1,43,Yes
+51046,58,Female,HR,Manager,3.1,90818,4,35,Yes
+51047,35,Female,Marketing,Executive,17.2,140848,2,55,No
+51048,27,Female,Finance,Team Lead,7.9,62935,3,32,No
+51049,28,Female,Operations,Senior Executive,6.8,141106,1,60,Yes
+51050,27,Male,HR,Senior Executive,17.1,128198,1,64,No
+51051,58,Male,IT,Team Lead,17.7,115170,2,4,No
+51052,54,Male,Finance,Team Lead,19.9,48094,2,75,No
+51053,32,Female,IT,Team Lead,5.4,37371,1,59,No
+51054,45,Male,IT,Senior Executive,11.8,77613,2,53,No
+51055,36,Male,Finance,Senior Executive,2.4,115267,1,39,No
+51056,36,Female,HR,Senior Executive,10.3,29728,3,28,No
+51057,36,Female,Operations,Team Lead,16.8,118048,4,36,No
+51058,22,Female,Operations,Team Lead,7.0,59176,1,59,No
+51059,28,Female,Marketing,Executive,10.5,58233,5,7,No
+51060,54,Male,Operations,Team Lead,13.5,122194,4,66,Yes
+51061,50,Male,Finance,Team Lead,1.9,135819,5,67,No
+51062,47,Female,IT,Team Lead,6.1,147485,2,58,No
+51063,48,Female,Operations,Manager,7.7,111825,1,25,No
+51064,35,Female,IT,Executive,18.4,124429,4,6,No
+51065,24,Male,IT,Manager,14.1,134068,1,19,No
+51066,48,Female,Finance,Team Lead,12.6,86091,5,46,No
+51067,37,Male,IT,Executive,5.2,84743,3,42,Yes
+51068,33,Male,IT,Manager,17.1,97561,1,4,No
+51069,37,Male,Marketing,Senior Executive,4.9,30278,4,54,No
+51070,28,Male,IT,Team Lead,15.5,49203,2,61,No
+51071,58,Female,HR,Team Lead,5.8,27430,4,3,Yes
+51072,28,Female,Finance,Team Lead,19.0,116450,3,52,No
+51073,34,Male,HR,Senior Executive,1.5,59791,3,33,No
+51074,32,Male,IT,Senior Executive,2.7,139486,5,8,No
+51075,39,Male,IT,Senior Executive,17.9,42531,3,25,No
+51076,30,Female,Operations,Executive,3.7,79951,1,8,No
+51077,30,Female,Marketing,Executive,11.9,41236,5,42,No
+51078,23,Female,HR,Manager,7.5,53270,2,62,No
+51079,54,Male,HR,Senior Executive,11.8,36590,5,73,No
+51080,25,Female,IT,Team Lead,12.5,96497,1,70,No
+51081,23,Female,Finance,Executive,9.7,142121,5,41,No
+51082,51,Male,Marketing,Manager,10.2,127896,3,22,No
+51083,45,Female,IT,Manager,14.9,76224,4,46,No
+51084,26,Female,HR,Team Lead,4.1,133914,2,68,Yes
+51085,23,Female,HR,Team Lead,14.2,30990,3,21,No
+51086,29,Male,IT,Team Lead,1.1,121416,2,23,Yes
+51087,23,Female,HR,Team Lead,15.9,134565,4,59,No
+51088,45,Female,HR,Senior Executive,8.4,140339,3,62,Yes
+51089,45,Male,IT,Executive,13.8,94798,1,8,No
+51090,59,Female,IT,Team Lead,3.4,49678,1,1,No
+51091,31,Male,Finance,Team Lead,19.3,48076,2,49,No
+51092,46,Female,Finance,Senior Executive,18.5,99095,1,62,Yes
+51093,28,Female,Finance,Manager,17.6,118210,4,22,No
+51094,44,Female,IT,Manager,16.4,22469,1,23,No
+51095,40,Male,HR,Executive,15.1,32777,3,37,Yes
+51096,23,Male,HR,Executive,0.9,91817,3,5,No
+51097,30,Male,Marketing,Executive,9.6,66606,4,43,No
+51098,58,Female,Operations,Manager,4.6,60278,3,36,Yes
+51099,42,Male,Finance,Team Lead,1.9,121122,3,59,Yes
+51100,29,Male,IT,Senior Executive,14.1,75609,3,57,No
+51101,52,Female,Marketing,Senior Executive,19.9,42924,3,34,No
+51102,48,Female,Operations,Team Lead,19.5,136739,2,37,No
+51103,23,Male,HR,Senior Executive,8.1,101705,2,79,No
+51104,42,Female,Finance,Team Lead,5.0,45758,2,49,No
+51105,45,Male,IT,Executive,12.3,128528,5,43,No
+51106,24,Female,HR,Executive,3.1,89105,1,34,No
+51107,43,Female,Marketing,Executive,16.4,132216,4,63,No
+51108,50,Female,HR,Executive,18.0,61333,1,5,Yes
+51109,56,Female,IT,Team Lead,12.4,109443,4,53,Yes
+51110,46,Female,Marketing,Executive,17.7,135058,3,44,No
+51111,51,Male,Operations,Senior Executive,4.4,124357,1,71,Yes
+51112,29,Female,HR,Senior Executive,17.6,41266,2,9,Yes
+51113,43,Female,Marketing,Senior Executive,6.7,52636,4,9,No
+51114,27,Female,Finance,Manager,10.5,135665,3,27,No
+51115,26,Female,HR,Senior Executive,18.5,124361,1,16,No
+51116,44,Male,Operations,Executive,10.3,28758,3,3,No
+51117,53,Female,Marketing,Senior Executive,16.1,48268,2,37,No
+51118,52,Male,Operations,Manager,4.7,111076,3,75,No
+51119,25,Female,Marketing,Team Lead,1.4,40080,4,47,No
+51120,37,Male,Finance,Senior Executive,18.9,106104,4,24,No
+51121,23,Female,Operations,Team Lead,18.4,24276,4,17,Yes
+51122,26,Male,IT,Executive,15.8,31703,1,60,No
+51123,43,Male,IT,Executive,10.2,143299,5,13,Yes
+51124,50,Male,Operations,Executive,5.0,81530,3,78,No
+51125,45,Male,Finance,Executive,1.3,79548,1,22,Yes
+51126,41,Female,IT,Team Lead,17.2,91714,1,43,No
+51127,41,Female,IT,Executive,18.0,112759,3,72,No
+51128,39,Male,HR,Executive,5.2,21027,4,0,No
+51129,22,Female,HR,Executive,13.3,62920,5,28,No
+51130,35,Female,Marketing,Executive,10.4,42670,5,45,Yes
+51131,45,Male,Marketing,Senior Executive,10.1,73607,1,34,Yes
+51132,26,Male,Operations,Team Lead,9.9,55666,4,5,No
+51133,53,Male,Marketing,Manager,10.5,50969,5,72,No
+51134,25,Female,Operations,Executive,1.8,118474,3,51,No
+51135,41,Female,HR,Manager,4.9,122085,2,30,Yes
+51136,52,Female,Marketing,Executive,5.1,146730,4,63,No
+51137,53,Male,Operations,Manager,8.3,148149,3,18,No
+51138,50,Female,IT,Manager,8.0,109967,3,29,No
+51139,31,Male,HR,Team Lead,19.6,42272,1,52,No
+51140,48,Female,Operations,Executive,18.5,136269,3,13,Yes
+51141,44,Male,IT,Senior Executive,14.1,87130,4,25,No
+51142,31,Male,Finance,Team Lead,7.7,124645,4,19,No
+51143,38,Female,Finance,Team Lead,11.5,64358,4,32,No
+51144,42,Female,Operations,Senior Executive,9.8,88024,4,39,No
+51145,59,Male,Finance,Manager,7.7,28842,1,25,No
+51146,29,Male,Operations,Senior Executive,17.2,121975,1,12,No
+51147,31,Female,Finance,Team Lead,15.6,22064,3,53,No
+51148,24,Male,Marketing,Manager,14.4,76163,2,17,No
+51149,51,Female,Operations,Team Lead,7.7,23595,3,78,Yes
+51150,23,Female,Finance,Senior Executive,8.4,58175,3,57,No
+51151,21,Male,Marketing,Executive,7.5,110762,5,53,No
+51152,58,Female,HR,Senior Executive,13.9,119505,2,52,No
+51153,59,Female,Marketing,Team Lead,14.9,101199,2,42,No
+51154,57,Female,Marketing,Executive,16.3,67158,5,7,Yes
+51155,42,Female,Finance,Executive,11.6,106233,5,38,No
+51156,54,Female,Finance,Team Lead,6.3,42127,1,66,No
+51157,44,Female,Marketing,Executive,16.1,31813,4,65,No
+51158,26,Male,HR,Senior Executive,12.6,95064,2,4,Yes
+51159,40,Female,Finance,Senior Executive,19.3,100735,3,58,No
+51160,23,Female,IT,Executive,7.8,50682,4,63,No
+51161,47,Male,Marketing,Executive,3.7,64591,3,52,No
+51162,26,Male,Finance,Executive,16.8,146868,3,57,No
+51163,32,Female,IT,Executive,0.5,92591,5,69,No
+51164,59,Male,HR,Team Lead,3.6,112856,5,63,Yes
+51165,54,Male,Finance,Team Lead,12.4,72342,4,8,Yes
+51166,41,Female,Operations,Manager,14.0,33732,4,55,Yes
+51167,24,Male,Operations,Manager,5.4,141222,2,41,Yes
+51168,25,Male,Marketing,Team Lead,1.1,144310,2,74,No
+51169,27,Male,Operations,Executive,11.3,68274,4,6,No
+51170,44,Female,IT,Senior Executive,15.7,147448,5,13,No
+51171,36,Male,HR,Senior Executive,19.8,21052,5,13,Yes
+51172,50,Male,Operations,Manager,6.6,122266,2,59,No
+51173,57,Male,HR,Senior Executive,6.5,71105,4,72,No
+51174,28,Male,Marketing,Executive,14.3,68740,1,15,Yes
+51175,59,Female,Operations,Senior Executive,15.8,134214,3,46,No
+51176,27,Female,Marketing,Executive,6.1,78694,3,44,No
+51177,32,Female,Marketing,Manager,2.7,142445,3,51,No
+51178,26,Female,HR,Senior Executive,5.4,59749,3,59,Yes
+51179,45,Male,Finance,Senior Executive,5.4,72818,2,13,No
+51180,50,Male,HR,Senior Executive,10.5,124279,1,33,No
+51181,31,Female,HR,Executive,4.3,136020,4,51,No
+51182,50,Female,IT,Executive,2.0,30194,3,6,No
+51183,57,Male,Marketing,Executive,19.3,55086,4,39,Yes
+51184,46,Male,Marketing,Executive,12.3,127451,1,18,No
+51185,31,Female,HR,Manager,0.8,120741,3,46,No
+51186,43,Male,IT,Senior Executive,14.4,29695,4,17,No
+51187,37,Female,Marketing,Executive,4.0,41432,4,10,No
+51188,37,Female,IT,Executive,8.2,32710,5,34,No
+51189,55,Female,Finance,Manager,11.2,120931,2,44,No
+51190,37,Female,Marketing,Executive,14.8,111559,5,26,No
+51191,33,Male,Operations,Executive,19.3,36233,1,20,Yes
+51192,24,Female,IT,Manager,5.4,23227,3,37,No
+51193,47,Female,Marketing,Manager,1.3,72157,5,25,No
+51194,49,Female,HR,Senior Executive,4.4,79357,3,62,No
+51195,58,Female,HR,Senior Executive,6.9,70672,4,15,No
+51196,46,Male,Operations,Team Lead,4.7,146458,2,58,Yes
+51197,56,Female,IT,Team Lead,8.7,47497,3,26,No
+51198,43,Male,IT,Team Lead,8.8,76737,1,30,No
+51199,29,Male,HR,Manager,19.0,45208,4,41,No
+51200,22,Male,Operations,Executive,19.0,52331,2,66,No
